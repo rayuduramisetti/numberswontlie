@@ -41,6 +41,9 @@ function App() {
       </main>
 
       <footer className="footer">
+        <p>
+          Built by <a href="https://www.rayuduramisetti.com" target="_blank" rel="noopener noreferrer" className="footer-link">Rayudu Ramisetti</a>
+        </p>
       </footer>
     </div>
   )
